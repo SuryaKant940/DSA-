@@ -9,6 +9,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/SuryaKant940/DSA-/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/SuryaKant940/DSA-/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/SuryaKant940/DSA-/tree/master/0119-pascals-triangle-ii) |
+| [0455-assign-cookies](https://github.com/SuryaKant940/DSA-/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,4 +29,16 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SuryaKant940/DSA-/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/SuryaKant940/DSA-/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/SuryaKant940/DSA-/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/SuryaKant940/DSA-/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
