@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/SuryaKant940/DSA-/tree/master/0119-pascals-triangle-ii) |
+| [0228-summary-ranges](https://github.com/SuryaKant940/DSA-/tree/master/0228-summary-ranges) |
 | [0455-assign-cookies](https://github.com/SuryaKant940/DSA-/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/SuryaKant940/DSA-/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
