@@ -6,6 +6,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/SuryaKant940/DSA-/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/SuryaKant940/DSA-/tree/master/0171-excel-sheet-column-number) |
+| [0268-missing-number](https://github.com/SuryaKant940/DSA-/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/SuryaKant940/DSA-/tree/master/0633-sum-of-square-numbers) |
 ## Two Pointers
 |  |
@@ -15,12 +16,14 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SuryaKant940/DSA-/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/SuryaKant940/DSA-/tree/master/0633-sum-of-square-numbers) |
 ## Array
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/SuryaKant940/DSA-/tree/master/0119-pascals-triangle-ii) |
 | [0228-summary-ranges](https://github.com/SuryaKant940/DSA-/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/SuryaKant940/DSA-/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/SuryaKant940/DSA-/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/SuryaKant940/DSA-/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
@@ -40,6 +43,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SuryaKant940/DSA-/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/SuryaKant940/DSA-/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
@@ -49,4 +53,12 @@
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/SuryaKant940/DSA-/tree/master/0171-excel-sheet-column-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SuryaKant940/DSA-/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SuryaKant940/DSA-/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
