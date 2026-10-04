@@ -53,9 +53,11 @@
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/SuryaKant940/DSA-/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/SuryaKant940/DSA-/tree/master/0205-isomorphic-strings) |
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/SuryaKant940/DSA-/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/SuryaKant940/DSA-/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
