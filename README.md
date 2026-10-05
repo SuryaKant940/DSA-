@@ -7,6 +7,7 @@
 | [0070-climbing-stairs](https://github.com/SuryaKant940/DSA-/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/SuryaKant940/DSA-/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/SuryaKant940/DSA-/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/SuryaKant940/DSA-/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/SuryaKant940/DSA-/tree/master/0633-sum-of-square-numbers) |
 ## Two Pointers
 |  |
@@ -31,10 +32,12 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/SuryaKant940/DSA-/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/SuryaKant940/DSA-/tree/master/0119-pascals-triangle-ii) |
+| [0509-fibonacci-number](https://github.com/SuryaKant940/DSA-/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SuryaKant940/DSA-/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/SuryaKant940/DSA-/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -63,4 +66,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SuryaKant940/DSA-/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SuryaKant940/DSA-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
