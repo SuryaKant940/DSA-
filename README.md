@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/SuryaKant940/DSA-/tree/master/0119-pascals-triangle-ii) |
+| [0169-majority-element](https://github.com/SuryaKant940/DSA-/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/SuryaKant940/DSA-/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/SuryaKant940/DSA-/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/SuryaKant940/DSA-/tree/master/0455-assign-cookies) |
@@ -46,6 +47,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SuryaKant940/DSA-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SuryaKant940/DSA-/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/SuryaKant940/DSA-/tree/master/0455-assign-cookies) |
 ## Quicksort
@@ -60,6 +62,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SuryaKant940/DSA-/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/SuryaKant940/DSA-/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/SuryaKant940/DSA-/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -70,4 +73,16 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/SuryaKant940/DSA-/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SuryaKant940/DSA-/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SuryaKant940/DSA-/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SuryaKant940/DSA-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
