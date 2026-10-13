@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/SuryaKant940/DSA-/tree/master/0040-combination-sum-ii) |
 | [0119-pascals-triangle-ii](https://github.com/SuryaKant940/DSA-/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/SuryaKant940/DSA-/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/SuryaKant940/DSA-/tree/master/0228-summary-ranges) |
@@ -85,4 +86,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SuryaKant940/DSA-/tree/master/0169-majority-element) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/SuryaKant940/DSA-/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
