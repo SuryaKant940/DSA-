@@ -18,7 +18,7 @@ public:
             if (i > index && arr[i] == arr[i - 1])
                 continue;
 
-            if (arr[0] > target)
+            if (arr[i] > target)
                 break;
 
             temp.push_back(arr[i]);
