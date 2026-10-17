@@ -23,6 +23,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SuryaKant940/DSA-/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/SuryaKant940/DSA-/tree/master/0040-combination-sum-ii) |
 | [0119-pascals-triangle-ii](https://github.com/SuryaKant940/DSA-/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/SuryaKant940/DSA-/tree/master/0169-majority-element) |
@@ -66,6 +67,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SuryaKant940/DSA-/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/SuryaKant940/DSA-/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/SuryaKant940/DSA-/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/SuryaKant940/DSA-/tree/master/0205-isomorphic-strings) |
