@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/SuryaKant940/DSA-/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/SuryaKant940/DSA-/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/SuryaKant940/DSA-/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/SuryaKant940/DSA-/tree/master/0268-missing-number) |
