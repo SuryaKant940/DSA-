@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/SuryaKant940/DSA-/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/SuryaKant940/DSA-/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/SuryaKant940/DSA-/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/SuryaKant940/DSA-/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/SuryaKant940/DSA-/tree/master/0268-missing-number) |
@@ -64,6 +65,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SuryaKant940/DSA-/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/SuryaKant940/DSA-/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/SuryaKant940/DSA-/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/SuryaKant940/DSA-/tree/master/0409-longest-palindrome) |
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SuryaKant940/DSA-/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/SuryaKant940/DSA-/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/SuryaKant940/DSA-/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/SuryaKant940/DSA-/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/SuryaKant940/DSA-/tree/master/0205-isomorphic-strings) |
