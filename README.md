@@ -14,6 +14,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SuryaKant940/DSA-/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/SuryaKant940/DSA-/tree/master/0141-linked-list-cycle) |
 | [0455-assign-cookies](https://github.com/SuryaKant940/DSA-/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/SuryaKant940/DSA-/tree/master/0633-sum-of-square-numbers) |
@@ -28,6 +29,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SuryaKant940/DSA-/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/SuryaKant940/DSA-/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/SuryaKant940/DSA-/tree/master/0015-3sum) |
 | [0040-combination-sum-ii](https://github.com/SuryaKant940/DSA-/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/SuryaKant940/DSA-/tree/master/0074-search-a-2d-matrix) |
 | [0119-pascals-triangle-ii](https://github.com/SuryaKant940/DSA-/tree/master/0119-pascals-triangle-ii) |
@@ -56,6 +58,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SuryaKant940/DSA-/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/SuryaKant940/DSA-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SuryaKant940/DSA-/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/SuryaKant940/DSA-/tree/master/0455-assign-cookies) |
