@@ -1,11 +1,11 @@
 class Solution {
 public:
     bool wordPattern(string pattern, string s) {
-        unordered_map<char,string>mp1;
-        unordered_map<string,char>mp2;
+        unordered_map<char, string> mp1;
+        unordered_map<string, char> mp2;
         stringstream ss(s);
         string word;
-        int i=0;
+        int i =0;
         while(ss>>word) {
             if(i>=pattern.size())
                 return false;
