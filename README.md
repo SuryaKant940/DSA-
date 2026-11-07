@@ -73,6 +73,7 @@
 | [0014-longest-common-prefix](https://github.com/SuryaKant940/DSA-/tree/master/0014-longest-common-prefix) |
 | [0171-excel-sheet-column-number](https://github.com/SuryaKant940/DSA-/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/SuryaKant940/DSA-/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/SuryaKant940/DSA-/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/SuryaKant940/DSA-/tree/master/0409-longest-palindrome) |
 ## Hash Table
 |  |
@@ -83,6 +84,7 @@
 | [0169-majority-element](https://github.com/SuryaKant940/DSA-/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/SuryaKant940/DSA-/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/SuryaKant940/DSA-/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/SuryaKant940/DSA-/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/SuryaKant940/DSA-/tree/master/0409-longest-palindrome) |
 ## Bit Manipulation
 |  |
