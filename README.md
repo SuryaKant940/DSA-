@@ -35,6 +35,7 @@
 | [0040-combination-sum-ii](https://github.com/SuryaKant940/DSA-/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/SuryaKant940/DSA-/tree/master/0074-search-a-2d-matrix) |
 | [0119-pascals-triangle-ii](https://github.com/SuryaKant940/DSA-/tree/master/0119-pascals-triangle-ii) |
+| [0164-maximum-gap](https://github.com/SuryaKant940/DSA-/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/SuryaKant940/DSA-/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/SuryaKant940/DSA-/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/SuryaKant940/DSA-/tree/master/0268-missing-number) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SuryaKant940/DSA-/tree/master/0015-3sum) |
+| [0164-maximum-gap](https://github.com/SuryaKant940/DSA-/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/SuryaKant940/DSA-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SuryaKant940/DSA-/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/SuryaKant940/DSA-/tree/master/0455-assign-cookies) |
@@ -150,4 +152,16 @@
 | ------- |
 | [0100-same-tree](https://github.com/SuryaKant940/DSA-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SuryaKant940/DSA-/tree/master/0101-symmetric-tree) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/SuryaKant940/DSA-/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/SuryaKant940/DSA-/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/SuryaKant940/DSA-/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
