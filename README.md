@@ -139,11 +139,13 @@
 | ------- |
 | [0100-same-tree](https://github.com/SuryaKant940/DSA-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SuryaKant940/DSA-/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SuryaKant940/DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SuryaKant940/DSA-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SuryaKant940/DSA-/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SuryaKant940/DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0463-island-perimeter](https://github.com/SuryaKant940/DSA-/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
@@ -156,6 +158,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/SuryaKant940/DSA-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SuryaKant940/DSA-/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SuryaKant940/DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -168,4 +171,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/SuryaKant940/DSA-/tree/master/0164-maximum-gap) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SuryaKant940/DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
