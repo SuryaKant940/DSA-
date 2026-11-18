@@ -175,4 +175,13 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/SuryaKant940/DSA-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/SuryaKant940/DSA-/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/SuryaKant940/DSA-/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/SuryaKant940/DSA-/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
