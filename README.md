@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/SuryaKant940/DSA-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SuryaKant940/DSA-/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/SuryaKant940/DSA-/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/SuryaKant940/DSA-/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/SuryaKant940/DSA-/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/SuryaKant940/DSA-/tree/master/0202-happy-number) |
@@ -99,6 +100,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/SuryaKant940/DSA-/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/SuryaKant940/DSA-/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
