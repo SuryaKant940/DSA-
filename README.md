@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SuryaKant940/DSA-/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/SuryaKant940/DSA-/tree/master/0072-edit-distance) |
 | [0119-pascals-triangle-ii](https://github.com/SuryaKant940/DSA-/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/SuryaKant940/DSA-/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -77,6 +78,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/SuryaKant940/DSA-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SuryaKant940/DSA-/tree/master/0014-longest-common-prefix) |
+| [0072-edit-distance](https://github.com/SuryaKant940/DSA-/tree/master/0072-edit-distance) |
 | [0171-excel-sheet-column-number](https://github.com/SuryaKant940/DSA-/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/SuryaKant940/DSA-/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/SuryaKant940/DSA-/tree/master/0290-word-pattern) |
