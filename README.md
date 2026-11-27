@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/SuryaKant940/DSA-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SuryaKant940/DSA-/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/SuryaKant940/DSA-/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/SuryaKant940/DSA-/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/SuryaKant940/DSA-/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/SuryaKant940/DSA-/tree/master/0171-excel-sheet-column-number) |
@@ -81,6 +82,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/SuryaKant940/DSA-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SuryaKant940/DSA-/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/SuryaKant940/DSA-/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/SuryaKant940/DSA-/tree/master/0072-edit-distance) |
 | [0171-excel-sheet-column-number](https://github.com/SuryaKant940/DSA-/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/SuryaKant940/DSA-/tree/master/0205-isomorphic-strings) |
@@ -191,4 +193,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SuryaKant940/DSA-/tree/master/0225-implement-stack-using-queues) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/SuryaKant940/DSA-/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
