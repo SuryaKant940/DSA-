@@ -46,6 +46,7 @@
 | [0268-missing-number](https://github.com/SuryaKant940/DSA-/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/SuryaKant940/DSA-/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/SuryaKant940/DSA-/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/SuryaKant940/DSA-/tree/master/0566-reshape-the-matrix) |
 | [0860-lemonade-change](https://github.com/SuryaKant940/DSA-/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
 |  |
@@ -139,6 +140,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SuryaKant940/DSA-/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/SuryaKant940/DSA-/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/SuryaKant940/DSA-/tree/master/0566-reshape-the-matrix) |
 ## Trie
 |  |
 | ------- |
@@ -197,4 +199,5 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/SuryaKant940/DSA-/tree/master/0043-multiply-strings) |
+| [0566-reshape-the-matrix](https://github.com/SuryaKant940/DSA-/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
